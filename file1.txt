@@ -1,0 +1,10 @@
+i am the best 
+
+wql
+:w
+:wq
+
+:wq
+ZZ
+Z
+exit
